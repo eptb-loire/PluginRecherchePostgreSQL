@@ -1,7 +1,0 @@
-[general]
-name=RecherchePostgreSQL
-qgisMinimumVersion=3.0
-description=Recherche de tables PostgreSQL par nom
-version=1.0.0
-author=IkramHamzaoui
-email=ikram.hamzaoui@eptb-loire.fr
